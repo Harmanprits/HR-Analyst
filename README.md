@@ -4,11 +4,11 @@
 Welcome to the AI Variant Data Analyst Internship Project: Employee Retention! This project was completed during an internship at AI Variant after completing the Data Analyst course at ExcelR. The project revolves around HR Analytics and focuses on analyzing employee retention using two datasets, HR_1 and HR_2, each containing 50,000 records.
 
 ## Project Overview
-- Domain: HR Analytics
-- Project Name: Employee Retention
-- Dataset Names: HR_1 & HR_2
-- Dataset Type: Excel Data
-- Dataset Size: 50,000 records each
+- **Domain:** HR Analytics
+- **Project Name:** Employee Retention
+- **Dataset Names:** HR_1 & HR_2
+- **Dataset Type:** Excel Data
+- **Dataset Size:** 50,000 records each
 
 ## Key Performance Indicators (KPIs)
 The project emphasizes six key performance indicators (KPIs) to gain insights into employee retention and related factors:
@@ -150,15 +150,15 @@ The HR dataset was imported into an SQL database an HR database is a system wher
 ![image](https://github.com/Harmanprits/HR-Analyst/assets/142983120/a938f9bb-ccde-4e09-9c2f-1f31417de1a4)
 
 ## Conclusion-
-- Attrition rates are high because the attrition ratio is above 50% which is
-not a good sign for organization to conclusion of this problem Surveys
-need to be done regularly and identify the high potential employees and
+- Attrition rates are high because the **attrition ratio is above 50%** which is
+not a good sign for organization to conclusion of this problem **Surveys
+need to be done** regularly and identify the high potential employees and
 create development plans for top talent.
 - By training and development, you can make feel valued and interested in
-their career growth which can lead to higher retention rate.
-- Employees are leaving their jobs because of the lack of facilities provided
+their career growth which can lead to **higher retention rate**.
+- Employees are leaving their jobs because of the **lack of facilities** provided
 by the organization. To improve this, must improve the facilities for
-employees also the average distance from home is 26 km to provide bus
-facilities. Provide a positive work environment and maintain good work
-life balance.
+employees also the average distance from home is **26 km** to provide bus
+facilities. Provide a positive work environment and maintain **good work
+life balance.**
 
